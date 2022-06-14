@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.row {
+  padding-top: 25px;
+}
+p.top {
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+section {
+  padding-top: 5rem;
+}
+form {
+  margin: 7px;
+}
+.form-element {
+  width: 10rem;
+}
+.form-floating {
+  width: 17rem;
+}
